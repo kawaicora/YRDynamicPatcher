@@ -45,7 +45,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>Xkein.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>amadeus.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PeNet">
